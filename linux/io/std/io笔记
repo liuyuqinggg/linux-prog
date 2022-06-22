@@ -1,0 +1,29 @@
+            linux 系统学习笔记
+
+I/O : input & output ,是一切实现的基础
+      stdio标准io
+      sysio系统调用IO(文件IO)
+
+stdio: FILE类型贯穿始终
+
+fopen();
+fclose();
+
+fgetc();
+fputc();
+fgets();
+fputs();
+fread();
+fwrite();
+
+printf();
+scanf();
+
+fseek();
+ftell();
+rewind();
+
+fflush();
+
+栈 静态区 堆
+

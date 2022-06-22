@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/yuqing/linux-programming/c/datastructure/double/lib2'
+cc    -c -o main.o main.c
+cc    -c -o llist.o llist.c
+cc main.o llist.o -o main
+make: Leaving directory '/home/yuqing/linux-programming/c/datastructure/double/lib2'
+ 

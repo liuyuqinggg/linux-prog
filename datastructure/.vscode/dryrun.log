@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/yuqing/linux-programming/c/datastructure'
+make: Leaving directory '/home/yuqing/linux-programming/c/datastructure'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
